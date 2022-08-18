@@ -131,7 +131,7 @@ function Library:CreateWindow(windowname,windowinfo)
     YepTitle.TextColor3 = Color3.fromRGB(255, 255, 255)
     YepTitle.TextSize = 9.000
     YepTitle.TextTransparency = 1.000
-    print("durkio cool")
+    print("Durkio cool")
     YepCorner.Name = "YepCorner"
     YepCorner.Parent = YepTitle
 
